@@ -16,7 +16,7 @@ function Navbar() {
               <div className="flex justify-between items-center">
                 <div className="flex items-center flex-shrink-0">
                    {/* <img className='h-20' src={logo} alt="" /> */}
-                   <h2 className='lg:text-3xl md:2xl sm:text-xl'>Logo</h2>
+                   <h2 className='lg:text-3xl md:2xl sm:text-xl'>Logos</h2>
                 </div>
                 <ul className="hidden lg:flex ml-14 space-x-12">
                     {NavItems.map((item, index) => (
